@@ -1,2 +1,2 @@
-# Blood Donation-Application
-A web application which can guide the user in the entire blood management process(request/donate).
+Human Sentiment Analysis:
+Python script to determine the emotion of the person.
